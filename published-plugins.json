@@ -181,7 +181,7 @@
       "iconUrl": "https://dobruk.pl/01/opub-logo.ico",
       "webHook": "https://api.dobruk.pl/woc/opub/decode.php?network={network}&tx={tx}&voutindex={voutindex}",
       "hashPreview": "70c36d3a482bdc7c60ef0fd5bb90a5beaefe68824025d1947acc15ad1a14b284",
-      "voutPreview": 0,
+      "voutPreview": "0",
       "isDisabled": false
     }
    ]
